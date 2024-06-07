@@ -1,0 +1,13 @@
+StartCell = 'Prices'!A2
+SpreadSheetID = 1v-M7gvvxFent7M5BFIksUdwDRdGz9e0AfWzzXp6k-4E
+Project_id = auc-price
+StartCell2 = 'Prices_lvl'!A2
+StepColumn = 14
+StepRow = 40
+Region = ru
+TotalData = 30
+StartCellDate = 'TotalTrades'
+PauseAfterError = 50000
+Attempts = 5
+TotalDate = 6
+LogError = true
